@@ -6,7 +6,8 @@
 }
 
 .group #group-name {
-  margin: 0;
+  margin: 16px;
+  font-size: 32px;
 }
 
 .group ul {
@@ -17,7 +18,14 @@
 
 .cards {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 64px;
-  padding: 32px 64px;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 24px;
+  padding: 24px;
+}
+
+
+@media screen and (max-width: 900px) {
+  .cards {
+    grid-template-columns: 1fr 1fr;
+  }
 }

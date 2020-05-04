@@ -1,4 +1,4 @@
 <li>
-  <img src="https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1579046615/nlludtztekkxomrnnpnn.jpg" alt="">
-  <p>Will</p>
+  <img src="https://avatars2.githubusercontent.com/u/60857101?v=4" alt="">
+  <p>Momo</p>
 </li>
